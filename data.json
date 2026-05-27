@@ -2,7 +2,17 @@
   "reviews": {
     "rootulp": [],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 324,
+        "title": "fix: validate root format in empty-range proof path of VerifyNamespace",
+        "url": "https://github.com/celestiaorg/nmt/pull/324",
+        "repo": "nmt",
+        "author": "evan-forbes",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-05-27T21:58:40Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 4980,
@@ -57,15 +67,6 @@
         "author": "proofmancer",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-23T18:11:54Z"
-      },
-      {
-        "number": 324,
-        "title": "fix: validate root format in empty-range proof path of VerifyNamespace",
-        "url": "https://github.com/celestiaorg/nmt/pull/324",
-        "repo": "nmt",
-        "author": "evan-forbes",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-22T20:40:45Z"
       }
     ],
     "vgonkivs": [
@@ -267,5 +268,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-27T21:06:34.512Z"
+  "fetchedAt": "2026-05-27T22:49:03.666Z"
 }
