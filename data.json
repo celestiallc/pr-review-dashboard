@@ -108,15 +108,6 @@
     ],
     "evan-forbes": [
       {
-        "number": 7295,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/manager from 1.21.1 to 1.22.19",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7295",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-25T14:53:27Z"
-      },
-      {
         "number": 5015,
         "title": "chore(deps): bump golang.org/x/crypto from 0.50.0 to 0.52.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5015",
@@ -127,15 +118,6 @@
       }
     ],
     "walldiss": [
-      {
-        "number": 7283,
-        "title": "refactor(fibre)!: accelerate reads",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7283",
-        "repo": "celestia-app",
-        "author": "Wondertan",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-05-27T15:12:31Z"
-      },
       {
         "number": 4232,
         "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
@@ -249,5 +231,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-28T12:52:12.508Z"
+  "fetchedAt": "2026-05-28T16:45:39.585Z"
 }
