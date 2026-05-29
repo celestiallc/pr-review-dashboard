@@ -89,15 +89,6 @@
         "requestedAt": "2026-05-25T14:52:01Z"
       },
       {
-        "number": 7312,
-        "title": "chore: bump the embedded v8 binary version (backport #7307)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7312",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-29T07:28:12Z"
-      },
-      {
         "number": 4232,
         "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4232",
@@ -268,5 +259,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-29T11:46:42.431Z"
+  "fetchedAt": "2026-05-29T14:27:16.558Z"
 }
