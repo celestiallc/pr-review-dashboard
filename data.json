@@ -12,7 +12,17 @@
         "requestedAt": "2026-05-28T16:54:56Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7315,
+        "title": "refactor(rsema1d): extract rlc subpackage and tighten primitive layering",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7315",
+        "repo": "celestia-app",
+        "author": "Wondertan",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-05-29T18:53:50Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7221,
@@ -96,6 +106,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-25T14:52:01Z"
+      },
+      {
+        "number": 7316,
+        "title": "refactor(rsema1d): prune deprecated API",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7316",
+        "repo": "celestia-app",
+        "author": "Wondertan",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-29T18:18:23Z"
       },
       {
         "number": 4232,
@@ -268,5 +287,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-29T17:49:43.223Z"
+  "fetchedAt": "2026-05-29T19:59:51.300Z"
 }
