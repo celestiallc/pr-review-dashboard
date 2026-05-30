@@ -12,17 +12,7 @@
         "requestedAt": "2026-05-28T16:54:56Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7316,
-        "title": "refactor(rsema1d): prune deprecated API",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7316",
-        "repo": "celestia-app",
-        "author": "Wondertan",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-05-30T13:51:22Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7221,
@@ -106,15 +96,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-25T14:52:01Z"
-      },
-      {
-        "number": 7316,
-        "title": "refactor(rsema1d): prune deprecated API",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7316",
-        "repo": "celestia-app",
-        "author": "Wondertan",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-29T18:18:23Z"
       },
       {
         "number": 4232,
@@ -305,5 +286,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-30T14:00:39.784Z"
+  "fetchedAt": "2026-05-30T15:16:18.787Z"
 }
